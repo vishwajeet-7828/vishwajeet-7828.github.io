@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #0022ff;
+  background: #1092f8;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -1113,13 +1113,13 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #0022ff;
+  background: #1092f8;
   color: #fff;
-  border: 2px solid #0022ff;
+  border: 2px solid #1092f8;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #ff9b1a !important;
-  border-color: #ff9b1a !important;
+  background: green !important;
+  border-color: green !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
